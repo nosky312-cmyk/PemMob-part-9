@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Post Explorer</string>
+    <string name="title_posts">JSONPlaceholder Posts</string>
+    <string name="loading_posts">Fetching latest posts…</string>
+    <string name="error_no_internet">No internet connection. Please check your network and try again.</string>
+    <string name="error_generic">An unexpected error occurred while loading posts.</string>
+    <string name="error_http">Server error occurred (%1$d). Please try again later.</string>
+    <string name="retry_button">Try Again</string>
+    <string name="post_id_format">Post #%1$d</string>
+    <string name="user_id_format">User ID: %1$d</string>
+    <string name="fetching_single_post">Fetching Post #%1$d details…</string>
+    <string name="single_post_title">Post Detail (#%1$d)</string>
+    <string name="close">Close</string>
+</resources>
